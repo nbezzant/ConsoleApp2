@@ -10,6 +10,7 @@ namespace PracticeGithubApp
     {
         static void Main(string[] args)
         {
+            string sexyMan = "Nate Bezzant";
         }
     }
 }
