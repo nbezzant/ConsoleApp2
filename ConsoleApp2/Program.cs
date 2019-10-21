@@ -11,6 +11,7 @@ namespace PracticeGithubApp
         static void Main(string[] args)
         {
             string sexyMan = "Nate Bezzant";
+            string getTheGirl = "Drew got Elise with his poster";
         }
     }
 }
